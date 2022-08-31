@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leannetraining
+- 👋 Hi, I’m Leanne
 - 👀 I’m interested in ...Azure Devops
 - 🌱 I’m currently learning ...Powershell
 - 💞️ I’m looking to collaborate on ...
